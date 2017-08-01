@@ -6,6 +6,6 @@ node {
 		sh "echo Hello world"
 	}
 	stage('Deploy') {
-		sh "echo Done"
+		sh "echo Well Done"
 	}
 }
