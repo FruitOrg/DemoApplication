@@ -1,5 +1,5 @@
 node() {
 	stage('Init') {
-		sh "echo Hello world"
+		sh "ls -la"
 	}
 }
